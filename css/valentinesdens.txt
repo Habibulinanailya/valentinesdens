@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title><p align="center">Доброе утро, любимый!</p></title>
+  </head>
+  <body>
+    <h1><p align="center">Доброе утро, любимый!</p></h1>
+    <p><p align="center">Поздравляю тебя С Днем Святого Валентина</p></p>
+<p align="center"><img src="C:\Users\nelya\Desktop\photo_2023-02-11_15-07-18.jpg"  height="700px"></p>
+ </body>
+</html>
